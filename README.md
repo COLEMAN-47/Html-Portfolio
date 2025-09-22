@@ -1,2 +1,2 @@
 # Html-Portfolio
-Capstone [project 
+Capstone Project 
